@@ -26,6 +26,9 @@ public class Test {
         System.out.println("测试分支");
         System.out.println("测试分支2");
         System.out.println("测试分支3");
+        System.out.println("测试分支3");
+        System.out.println("测试分支3");
+        System.out.println("测试分支3");
         System.out.println(test());
     }
 
