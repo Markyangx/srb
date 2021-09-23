@@ -14,6 +14,4 @@ spring:
 aliyun:
   oss:
     endpoint: oss-cn-chengdu.aliyuncs.com
-    keyId: LTAI5tBh3czGKtoyDdo4XGzs
-    keySecret: 8sS5ue2G00cVbaJz0qzRTGJfbNtmBO
     bucketName: srb-pro789
