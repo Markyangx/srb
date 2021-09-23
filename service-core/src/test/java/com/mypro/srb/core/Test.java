@@ -24,6 +24,8 @@ public class Test {
 ////        b = a + b; // 报编译错误:cannot convert from int to byte
 //        b += a;
         System.out.println("测试分支");
+        System.out.println("测试分支2");
+        System.out.println("测试分支3");
         System.out.println(test());
     }
 
